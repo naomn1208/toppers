@@ -8,20 +8,27 @@
 asp関連）
     xilinx製品
 
-        asp_mb.tar.xz
+        ターゲットボード       Cmod S7
 
-            Cmod S7 をターゲットとした。Toppers１/ASP
+        サンプルコード         asp_mb.tar.xz
 
-            /asp_mb/target/sd1800a_dsp_gcc　を編集しています。
+                /asp_mb/target/sd1800a_dsp_gcc　を編集しています。
 
-            /asp_mb/target/sd1800a_dsp_gcc/PRJ_RTOS01.sdk　に、vivado で生成した、BSP関連のフォルダをコピーして、SDKで利用する構成としています。
+                /asp_mb/target/sd1800a_dsp_gcc/PRJ_RTOS01.sdk　に、vivado で生成した、BSP関連のフォルダをコピーして、SDKで利用する構成としています。
     
 
     altera製品
-        準備中
+        ターゲットボード        DE0-Nano
+
+        サンプルコード          準備中
+
 
 jsp関連）
+
     lattice製品
-        準備中
+
+        ターゲットボード       準備中 
+        
+        サンプルコード         準備中
 
 
